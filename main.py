@@ -22,3 +22,5 @@ print("continue to develop feature_4")
 print("some bug fixed")
 
 print("bug1 fixed")
+
+print("bug2 fixed")
