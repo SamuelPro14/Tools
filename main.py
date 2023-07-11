@@ -5,6 +5,7 @@ def alg_1():
 
 def alg_2():
     print("Alg_2 doing something...")
+    print("Alg_2 bug fixed...")
 
 def alg_3():
     print("Alg_3 doing something...")
