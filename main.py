@@ -11,3 +11,16 @@ def alg_2():
 def alg_3():
     print("Alg_3 doing something...")
 
+def alg_4():
+    print("Alg_4 doing something...")
+
+
+print("Feature_4 in developming...")
+
+print("continue to develop feature_4")
+
+print("some bug fixed")
+
+print("bug1 fixed")
+
+print("bug2 fixed")
