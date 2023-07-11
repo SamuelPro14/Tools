@@ -21,3 +21,4 @@ print("continue to develop feature_4")
 
 def alg_5():
     print("Alg_4 doing something...")
+    print("bug in alg_5 fixed...")
