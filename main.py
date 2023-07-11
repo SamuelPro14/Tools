@@ -18,3 +18,6 @@ def alg_4():
 print("Feature_4 in developming...")
 
 print("continue to develop feature_4")
+
+def alg_5():
+    print("Alg_4 doing something...")
